@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "3e4be987c1a139ecd760e4ba64568c10c53028a42230ec557e3225bab4b496b5"
+
+[[files]]
 file = "background.png"
 hash = "b1c50d54c0d8dc66f875d1c4d23438f74a02b09c96c73fc49c8a48592f6de6e2"
 
@@ -512,6 +516,11 @@ hash = "e0571f73326c82da8cb8dedbb8bf7e598098daa573b62c6a24641163e08d50b9"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "095121d6a78ca2ec93fd3356f4da4f03c404a3e879b2df7542804ad83797a58e"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3495bee4b13547d7199904af6435eebf4601fa0218b0f6e2a3f7c30f7134717d"
 metafile = true
@@ -718,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5ed766bc2ca05f34d7c590b540b2ce440ee6baee06fa0e55b712cf175823cd37"
+hash = "d875e3cf24251e34e0d20869dd81d510357c7570a7cd23f111c62481ed140b27"
 metafile = true
 
 [[files]]
@@ -758,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2989515878d3e6e7fe41b34619da5d764cc72d3691cec55399e9aced054931b2"
+hash = "09ab32c1e88898e0a0e159a454ddac4173dd36df0edfd90a7cfa417f3d2fb8c9"
 metafile = true
 
 [[files]]
@@ -854,6 +863,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "1298a4d54e27a347e1f4ed200a536ff1be45574f623a08ccf9e36bbc90b25fcb"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "561ad66d44b91fdf5902647e8ec9124c7b0e4502d9e43c7420549c863c6b6300"
 metafile = true
 
 [[files]]
