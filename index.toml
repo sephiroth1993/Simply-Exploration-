@@ -961,6 +961,31 @@ hash = "d222023a6e786243153a9812fd90a6471ce11d3e70483bc72c7b1fcf5003169b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "4546934df5c191626cd87813f4e575710da4559ea88bca4aa253ac035dd22a43"
+metafile = true
+
+[[files]]
+file = "resourcepacks/embellished-stone-advancement-plaques.pw.toml"
+hash = "4b021e95ee8151bd42e95b0bbb2f26f2c220bd7228fb067c0705488b4bdd505f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
+hash = "8ddaee6bda735aafbbeea8174972b7fd761c08dd4f74f9befb4796d4bc5e1d5a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
+metafile = true
+
+[[files]]
 file = "resources/vanilla.png"
 hash = "b39a71e87c4775c59b4bf1cf37bfb6f2d01c6a79ca12263b26f7218c84442406"
 

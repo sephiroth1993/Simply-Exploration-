@@ -1,0 +1,13 @@
+name = "Tissou's Zombie Pack"
+filename = "Tissou's Zombie Pack 1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d9efacba0e42bcd717ca75d7d157a914a139f84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3858609
+project-id = 312822
