@@ -1,0 +1,13 @@
+name = "Bewitchment"
+filename = "bewitchment-1.19-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f526db1e9d1bf9b65c954bd1d16a566a09ab230"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3882386
+project-id = 394915

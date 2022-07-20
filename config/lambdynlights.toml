@@ -1,0 +1,388 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "fancy"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "fancy"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				item = true
+				chicken = true
+				zombie = true
+				skeleton = true
+				creeper = true
+				bat = true
+				spider = true
+				zombie_villager = true
+				pig = true
+				glow_squid = true
+				squid = true
+				turtle = true
+				sheep = true
+				cow = true
+				dolphin = true
+				bee = true
+				enderman = true
+				cod = true
+				witch = true
+				axolotl = true
+				slime = true
+				chest_minecart = true
+				tnt_minecart = true
+				minecart = true
+				furnace_minecart = true
+				wolf = true
+				drowned = true
+				experience_orb = true
+				arrow = true
+				salmon = true
+				horse = true
+				lightning_bolt = true
+				donkey = true
+				rabbit = true
+				fox = true
+				stray = true
+				polar_bear = true
+				cat = true
+				villager = true
+				iron_golem = true
+				husk = true
+				tropical_fish = true
+				pufferfish = true
+				goat = true
+				phantom = true
+				parrot = true
+				pillager = true
+				allay = true
+				vindicator = true
+				illusioner = true
+				tadpole = true
+				area_effect_cloud = true
+				armor_stand = true
+				blaze = true
+				boat = true
+				chest_boat = true
+				cave_spider = true
+				dragon_fireball = true
+				elder_guardian = true
+				end_crystal = true
+				ender_dragon = true
+				endermite = true
+				evoker = true
+				evoker_fangs = true
+				eye_of_ender = true
+				falling_block = true
+				firework_rocket = true
+				frog = true
+				ghast = true
+				giant = true
+				guardian = true
+				hoglin = true
+				item_frame = true
+				fireball = true
+				leash_knot = true
+				llama = true
+				llama_spit = true
+				magma_cube = true
+				marker = true
+				command_block_minecart = true
+				hopper_minecart = true
+				spawner_minecart = true
+				mule = true
+				mooshroom = true
+				ocelot = true
+				painting = true
+				panda = true
+				piglin = true
+				piglin_brute = true
+				tnt = true
+				ravager = true
+				shulker = true
+				shulker_bullet = true
+				silverfish = true
+				skeleton_horse = true
+				small_fireball = true
+				snow_golem = true
+				snowball = true
+				spectral_arrow = true
+				strider = true
+				egg = true
+				ender_pearl = true
+				experience_bottle = true
+				potion = true
+				trident = true
+				trader_llama = true
+				vex = true
+				wandering_trader = true
+				warden = true
+				wither = true
+				wither_skeleton = true
+				wither_skull = true
+				zoglin = true
+				zombie_horse = true
+				zombified_piglin = true
+				fishing_bobber = true
+
+			[light_sources.settings.entities.adventurez]
+				deer = true
+				orc = true
+				summoner = true
+				amethyst_golem = true
+				iguana = true
+				mammoth = true
+				stone_golem = true
+				thrown_rock = true
+				gilded_stone = true
+				small_stone_golem = true
+				piglin_beast = true
+				nightmare = true
+				soul_reaper = true
+				necromancer = true
+				wither_puppet = true
+				skeleton_vanguard = true
+				blaze_guardian = true
+				the_eye = true
+				void_shadow = true
+				tiny_eye = true
+				red_fungus = true
+				brown_fungus = true
+				dragon = true
+				void_fragment = true
+				void_shade = true
+				void_bullet = true
+				fire_breath = true
+				blaze_guardian_shield = true
+				ender_whale = true
+				amethyst_shard = true
+				desert_rhino = true
+				void_cloud = true
+				shaman = true
+				enderwarthog = true
+
+			[light_sources.settings.entities.additionaladditions]
+				glow_stick = true
+
+			[light_sources.settings.entities.doom]
+				bullets = true
+				shotgun_shell = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				naga = true
+				flying_pig = true
+				jungle_skeleton = true
+				skull = true
+				chair = true
+				naga_projectile = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				end_slime = true
+				end_fish = true
+				shadow_walker = true
+				cubozoa = true
+				silk_moth = true
+
+			[light_sources.settings.entities.bewitchment]
+				juniper_broom = true
+				cypress_broom = true
+				elder_broom = true
+				dragons_blood_broom = true
+				silver_arrow = true
+				horned_spear = true
+				owl = true
+				raven = true
+				snake = true
+				toad = true
+				ghost = true
+				vampire = true
+				werewolf = true
+				hellhound = true
+				demon = true
+				leonard = true
+				baphomet = true
+				lilith = true
+				herne = true
+
+			[light_sources.settings.entities.bwplus]
+				mutanis_entity = true
+				cambion = true
+				black_dog = true
+				niffler = true
+				phoenix = true
+				unicorn = true
+				effigy = true
+				leshon = true
+				yew_broom = true
+				dragon = true
+				lilim = true
+				rune = true
+				death = true
+
+			[light_sources.settings.entities.charm]
+				chair = true
+				coral_squid = true
+				endermite_powder = true
+				moobloom = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.probablychests]
+				normal_chest_mimic = true
+				lush_chest_mimic = true
+				rocky_chest_mimic = true
+				stone_chest_mimic = true
+				gold_chest_mimic = true
+				normal_chest_mimic_pet = true
+				lush_chest_mimic_pet = true
+				rocky_chest_mimic_pet = true
+				stone_chest_mimic_pet = true
+				gold_chest_mimic_pet = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
+				chest_boat = true
+
+		[light_sources.settings.block_entities]
+
+			[light_sources.settings.block_entities.minecraft]
+				furnace = true
+				chest = true
+				trapped_chest = true
+				ender_chest = true
+				jukebox = true
+				dispenser = true
+				dropper = true
+				sign = true
+				mob_spawner = true
+				piston = true
+				brewing_stand = true
+				enchanting_table = true
+				end_portal = true
+				beacon = true
+				skull = true
+				daylight_detector = true
+				hopper = true
+				comparator = true
+				banner = true
+				structure_block = true
+				end_gateway = true
+				command_block = true
+				shulker_box = true
+				bed = true
+				conduit = true
+				barrel = true
+				smoker = true
+				blast_furnace = true
+				lectern = true
+				bell = true
+				jigsaw = true
+				campfire = true
+				beehive = true
+				sculk_sensor = true
+				sculk_catalyst = true
+				sculk_shrieker = true
+
+			[light_sources.settings.block_entities.adventurez]
+				stone_holder_entity = true
+				piglin_flag_entity = true
+				dragon_egg_entity = true
+				shadow_chest_entity = true
+
+			[light_sources.settings.block_entities.bclib]
+				chest = true
+				barrel = true
+				sign = true
+				furnace = true
+
+			[light_sources.settings.block_entities.betterend]
+				end_stone_smelter = true
+				pedestal = true
+				eternal_pedestal = true
+				infusion_pedestal = true
+				hydrother_malvent = true
+
+			[light_sources.settings.block_entities.betternether]
+				forge = true
+				furnace = true
+				chest_of_drawers = true
+				nether_brewing_stand = true
+
+			[light_sources.settings.block_entities.bewitchment]
+				bw_chest = true
+				witch_altar = true
+				witch_cauldron = true
+				glyph = true
+				brazier = true
+				taglock_holder = true
+				lockable = true
+				sigil = true
+				poppet_shelf = true
+				juniper_chest = true
+				elder_chest = true
+				dragons_blood_chest = true
+
+			[light_sources.settings.block_entities.bwplus]
+				goblet = true
+				pentacle = true
+				moonflower_block_entity = true
+				mimic_chest_block_entity = true
+				statue_block_entity = true
+				yew_chest = true
+				leech_chest = true
+				yew_log = true
+
+			[light_sources.settings.block_entities.charm]
+				variant_chest = true
+				trapped_chest = true
+				bookcase = true
+				kiln = true
+
+			[light_sources.settings.block_entities.farmersdelight]
+				stove = true
+				cooking_pot = true
+				basket = true
+				cutting_board = true
+				pantry = true
+
+			[light_sources.settings.block_entities.fwaystones]
+				waystone = true
+
+			[light_sources.settings.block_entities.infusion_table]
+				infusion_table_entity = true
+
+			[light_sources.settings.block_entities.lootr]
+				special_loot_chest = true
+				special_trapped_loot_chest = true
+				special_loot_shulker = true
+				special_loot_barrel = true
+				special_loot_inventory = true
+
+			[light_sources.settings.block_entities.probablychests]
+				lush_chest_block_entity = true
+				normal_chest_block_entity = true
+				rocky_chest_block_entity = true
+				stone_chest_block_entity = true
+				gold_chest_block_entity = true
+

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = ../../instances/Vanilla plus by Seph/saves/Multiplayerete
+}
+

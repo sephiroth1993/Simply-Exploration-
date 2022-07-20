@@ -1,0 +1,13 @@
+name = "Audio Extension for FancyMenu [Fabric]"
+filename = "fm_audio_extension_fabric_1.1.1_MC_1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cacea52d388d995b1841390ef6a44da1a4a877f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3854658
+project-id = 613070

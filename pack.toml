@@ -1,0 +1,13 @@
+name = "Simply Exploration +"
+author = "Sephiroth1993"
+version = "1.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "32b448f3ac3e3d3ffc93738d55cb0aa78d4d2b80b8bc1e9a6bed5a0239a8a8da"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

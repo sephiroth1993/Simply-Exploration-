@@ -1,0 +1,142 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_realms_button
+  x = 0
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 0
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = 9b1b0275-7967-4662-8617-eabe62c9ad131657416389060
+  y = 228
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 269555dc-9037-4db2-a2fc-e112360a94bf1657416389069
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 000c3f53-195e-469b-9631-8a23ade05e6d1657416389069
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 36002830-05fb-4f5b-8953-eb32953ffb691657416389069
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 68
+  actionid = 3e2b0f01-cd9b-440f-8832-e961a1a51a041657416683489
+  action = addsplash
+  y = 66
+  text = By Seph
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 0
+  actionid = d1507546-8052-4f2d-a5ff-571e4eb4df6f1657416970998
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = Modpack by Seph
+}
+
+customization {
+  path = resources/vanilla.png
+  orientation = top-centered
+  x = -137
+  width = 274
+  action = addtexture
+  actionid = fa12431e-0138-424b-98c2-cbbebfdee97f1657417441967
+  y = 28
+  height = 52
+}
+
