@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "59a069deb0a7ffee4a62843fe18d8fab2c935863e66534a96751aa1294c6fe3a"
+hash = "05192156d2eb83896580006dc8b010669772385eb487a2d2049817e7eda23aa0"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "3a225baa090da48176c80dcd126bf1c0b43498fd7abe71b782392436611d6ffa"
+hash = "40fbd4192515ed365a57916a04c3a5a701558694e331b0bfd1afb90df4be3532"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/diggus-maximus.pw.toml"
-hash = "a0420a1831e3264b7f368e4571965f73e33c12f4212a8c09d962973047e2ecb6"
+hash = "714fcc5e778a6e8d18ddbe635604717109cd8cb2d7ba7a1d1a50354c97c5507a"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "3e0d9672632d67a4960ba88f5cfea5bf312c46af523470ce102e479b5ad2b7cc"
+hash = "e2da6560014f3fb710a21d86bd86f8403cab49ca9f4c4772c184f360b620b2c9"
 metafile = true
 
 [[files]]
@@ -682,12 +682,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "3cb68f2cd5a4c235c1f7c351679539bd1f10930f4da7edbdc1d21eb0fdc5f8a5"
+hash = "c16d5e9b61f075230d7e9475ad947594c45bdaa62343f165a6b06099c46793b6"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/probably-chests.pw.toml"
-hash = "7eb5a67e4168fc95f7d08bddc3b5e02decdf5f3334e14145653b2e93dca719d9"
+hash = "2188a4f1b497d8f3857c5fe8580e88077df029f0d734ada01aedaf32ad16be10"
 metafile = true
 
 [[files]]
@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "47967b9e795ef8b01bb8fb2f73b95bc3fa8af3bf33126a810c471de7fee10198"
+hash = "ee7822de8b188d1f3f201bc092659c56ee7b5cc2257f0e039b156eee9469ce5b"
 metafile = true
 
 [[files]]
