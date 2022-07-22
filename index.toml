@@ -556,6 +556,11 @@ hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "3a2f4ab242986f00e939b5aa1479740e2fbc2c8763fd8575e5372b61538ec67a"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ce6a793b859749d058cba99a77657f2b779af8e50f0ba80061a9aec8ca95fb04"
 metafile = true
@@ -661,6 +666,11 @@ hash = "cc415f58bb6213bae91e5be23aa049cace89ed866d861f0ab928c4616386b96a"
 metafile = true
 
 [[files]]
+file = "mods/default-options-fabric.pw.toml"
+hash = "35556bca74a08d72ceeaf341556582d84f27e59064b36cdb73a8c1406f866558"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.pw.toml"
 hash = "714fcc5e778a6e8d18ddbe635604717109cd8cb2d7ba7a1d1a50354c97c5507a"
 metafile = true
@@ -672,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "e2da6560014f3fb710a21d86bd86f8403cab49ca9f4c4772c184f360b620b2c9"
+hash = "ff5a23e14c48eac04cde576d595774b7918bf74e0a5db74bfbb73f7b9e932864"
 metafile = true
 
 [[files]]
@@ -702,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "425e849b45d91bfd21edb705aeb051344e822313959798baf15e678c09d30b1c"
+hash = "43355ff28123608ce153d89168735ed67d90b364b9249df8d4a605a618dbc263"
 metafile = true
 
 [[files]]
@@ -882,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/probably-chests.pw.toml"
-hash = "2188a4f1b497d8f3857c5fe8580e88077df029f0d734ada01aedaf32ad16be10"
+hash = "d2143884abe322a6af5b23a4010965a15fc8b5c542f77d2b2aacf82f560008bc"
 metafile = true
 
 [[files]]
