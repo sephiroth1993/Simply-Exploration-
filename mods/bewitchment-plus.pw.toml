@@ -1,13 +1,13 @@
 name = "Bewitchment Plus"
-filename = "bewitchmentplus-1.19-3.jar"
+filename = "bewitchmentplus-1.19-4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d04ed7279f9193c5a874db77e714b9eef2d3e989"
+hash = "3b4449b2092332b198f350f944c7fb4c279823be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3876612
+file-id = 3894896
 project-id = 582588

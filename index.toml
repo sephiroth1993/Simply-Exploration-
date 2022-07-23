@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "05192156d2eb83896580006dc8b010669772385eb487a2d2049817e7eda23aa0"
+hash = "fc4115abd76427cfdf203686d8a3b4c333dec62a6a0e243ceef27b9c3eacb09c"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.pw.toml"
-hash = "800dec4a6f2b905c8f277569b4d253d1f45f91f7f86c3c61c5feb425b0a6696e"
+hash = "043742eaf5ba7c43130ab4259044016535b867d20fe373ce1007183ef6cff536"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "09ab32c1e88898e0a0e159a454ddac4173dd36df0edfd90a7cfa417f3d2fb8c9"
+hash = "53e982abcb3691093ec1362b3c30d4cf22d1d8ae71ea0e7b3f733ccbed3ea118"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "4d12aaecd368768850d68493953f6d2e67af75af3a3b8b988c432d91550fce2f"
+hash = "f4089730d8cb38312cfd3542f4ceb2cf83452e17775516ddfd3781845c40403a"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d222023a6e786243153a9812fd90a6471ce11d3e70483bc72c7b1fcf5003169b"
+hash = "7697b5c20e6d9b2f173d474673d2fd473961db9e80984ee94333b589d2be7a0e"
 metafile = true
 
 [[files]]
