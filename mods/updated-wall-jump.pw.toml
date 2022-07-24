@@ -1,0 +1,13 @@
+name = "Updated Wall-Jump! [FABRIC]"
+filename = "walljump-fabric-1.3.3+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "619a3d94efee82792bff5856bbc258167d5af298"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836152
+project-id = 619983

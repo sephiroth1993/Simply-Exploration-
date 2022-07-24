@@ -1,12 +1,12 @@
 name = "Simply Exploration +"
 author = "Sephiroth1993"
-version = "1.5"
+version = "1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "10e3e5031a2bcf2da5bd7bf2e51c7d118374423e9135b041afa284867ed2737f"
+hash = "6614d644f5b6a4679788dbbbc62295d66a93f4d7c93c2f2023a2d16110cfdde3"
 
 [versions]
 fabric = "0.14.8"

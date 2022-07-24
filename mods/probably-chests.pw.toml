@@ -1,13 +1,13 @@
 name = "Probably Chests"
-filename = "probablychests-0.5.2.jar"
+filename = "probablychests-0.5.3-1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5f98cf0c466e0927f0a8b490e714f4bf89ce0ac8"
+hash = "014778d460498e2952f83658d5990544ab79c272"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3891745
+file-id = 3895635
 project-id = 601735
