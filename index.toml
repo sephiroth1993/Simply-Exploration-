@@ -779,6 +779,11 @@ hash = "2027fc62f27fdabd1f6485dbdc2f4316ea6b04dedf595f839651020d2d861a69"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering-fabric.pw.toml"
+hash = "9549d5918a2a48f0fc9bc2146d2afee3b4d6cb17aeae87d1c1ccad9ad9dc7756"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "21ae6591048a111fba70d41a57ee0b7f16e73011f970ce88c21d9ccdea170b0a"
 metafile = true
@@ -889,6 +894,11 @@ hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "947728b73773c3c849da74b91ffe3a8cef1b28dce42d954161019c5b0d80fa32"
+metafile = true
+
+[[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
 hash = "dc029440adfd8c8771917aeae4b3b2d4f5104f30cd80e5cb9a7d8b99738ef61f"
 metafile = true
@@ -965,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "9e05f95cab9c9c33f8bfcc76605ac337e0d961ddf17a6779c6e774d7763223a2"
+hash = "862bc383215946d783029c463ca836da4aa8bba25c59601a685f01c30de5232a"
 metafile = true
 
 [[files]]
@@ -1040,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "7697b5c20e6d9b2f173d474673d2fd473961db9e80984ee94333b589d2be7a0e"
+hash = "9147518131e7044466091721dea402eedac68230ca72ba12df4b4a5ff2d56451"
 metafile = true
 
 [[files]]
