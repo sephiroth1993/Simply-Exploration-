@@ -575,17 +575,17 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "ce6a793b859749d058cba99a77657f2b779af8e50f0ba80061a9aec8ca95fb04"
+hash = "80ffacd833db4ee0dbc48699f31074652cbc74e39b59218660d346ae103b3995"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "53bdc19f0cc33dfa6168e05ec326a0215a0ec5b978ae1dc4beb5441325ece3c9"
+hash = "00591d6df45083473da862e79e7d25bb207bec5e841167a586e57dde2d2bcd7b"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "2d1c87119e21b0af1a6267cd61a27e36a797188b20a911ac319acdbf0384946c"
+hash = "6b49c387c07bc652706c0de25ea5045d4b299e44b0d9db0eb76c2e4fa91dd6a5"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "40fbd4192515ed365a57916a04c3a5a701558694e331b0bfd1afb90df4be3532"
+hash = "2c6edc45f370046fdde505356a106c09b6132a570a753f23c27c65d1c3b977af"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "94395acd6f7f4169eba18ab28c8a230a29ede89c809b301ca82cf3c1d02c7d34"
+hash = "6bebf52ea474e1c3cb49f6ee24c75f472ab6f71702cd68d130086b7a0bb332a7"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "5a3b0233af2700cedd54771004c17774d6f331789be99c3059afcb81f40aa7ac"
+hash = "bc927da092ee23dc5668d9607fb91362bde587b280564c00d45e44cac244205f"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "c141133aa236e002f9b32baf6e9c8c2c3f4618fcc3defbd3bc3d2aa24f7b96b7"
+hash = "7befee16152b92859affdb23cf8015c71c6f3cf39f8e544a8af67462595241c7"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "f4089730d8cb38312cfd3542f4ceb2cf83452e17775516ddfd3781845c40403a"
+hash = "2a53a57537b1e0cd973a4147ef80610a90533b788148d96f967335c43558104f"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "df0b721ae4a76832ad6e66ef1600f161df6e1b14f3129f33b57e9664ecbba9e5"
+hash = "2ef13c149683082f03bb6dfdda4126c844cfdeba7e4c7ef9e012518978a88f3f"
 metafile = true
 
 [[files]]
