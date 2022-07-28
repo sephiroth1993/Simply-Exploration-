@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "3a2f4ab242986f00e939b5aa1479740e2fbc2c8763fd8575e5372b61538ec67a"
+hash = "fd92b809f6c7c8c071ac02478b39afb5247d294e5631918994cdefab362f4c14"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "2c6edc45f370046fdde505356a106c09b6132a570a753f23c27c65d1c3b977af"
+hash = "69fbd5258464b60fda1da6530dd036433833e3f1a02984c2c46a660e3ce8085f"
 metafile = true
 
 [[files]]
@@ -644,6 +644,11 @@ hash = "2e53fff6ac6eacad3ba8a6c3c1c79e0787b292812cf141ab7c4aa9c7c3ac106d"
 metafile = true
 
 [[files]]
+file = "mods/companion-fabric.pw.toml"
+hash = "a296de2365bdb37f53d34be55998ae4e63810073df75e1d4c5b152b6872740d2"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "c38e8a0abc8f71ec82439c0a8a59677b4e13c673cca28793f00f9ea7cc40a10e"
 metafile = true
@@ -660,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "ba7bf2ca4426ca457a86c8ddb43f9626e6bd12a25d36fd78ae8f91f88d8dc989"
+hash = "7fab5cd79bff406357ad7d669649344bbc38efdca6b064960800b5d0666eb257"
 metafile = true
 
 [[files]]
@@ -675,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-utilities.pw.toml"
-hash = "40119f9becef24b33b648e820a132bf44324e0cdf9460bbee2f01081684e76a8"
+hash = "18caa6ee4f3f8d4e4592e3ee181f554fbd9c1796f56dbe89c72ce57bd4102c6e"
 metafile = true
 
 [[files]]
@@ -700,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "6bebf52ea474e1c3cb49f6ee24c75f472ab6f71702cd68d130086b7a0bb332a7"
+hash = "28fa30b850d3a8ed828cd65ee12e1ead7d3fec9a610eb969c0f3a62de485727a"
 metafile = true
 
 [[files]]
@@ -765,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "a720bfb89268d4926acd6879082a941348de4e8231c82f750395706c4944113e"
+hash = "4f1cef0425387d32520ad109a25d6f8a6287133a8b140f2b9ca4c44ca37bda9a"
 metafile = true
 
 [[files]]
@@ -815,12 +820,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "572988bee9c9a34f18f14c58158490b82f8b231a7fa83a4bd9a22b551104c7c7"
+hash = "3007e9818d46b3cc72d4ec3abc8ff0f4253ba0842305a7dc47b28c34f1c194af"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d1fa52e0050fdbceb232218bcd59e24ca8e5fd1a0b8c01d7086d7cbff2dfea9c"
+hash = "518cafdb008272205784e56f927f68ae536098ce705c1184eb917f035bce4f43"
 metafile = true
 
 [[files]]
@@ -920,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "1298a4d54e27a347e1f4ed200a536ff1be45574f623a08ccf9e36bbc90b25fcb"
+hash = "3ff5bc99f1063a1d3cb27d10af80219a06dde328b1b4f2f02988d71381bfc044"
 metafile = true
 
 [[files]]
@@ -1005,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "ee7822de8b188d1f3f201bc092659c56ee7b5cc2257f0e039b156eee9469ce5b"
+hash = "5bd5cfe31930a8d68f33218215ce77573d421def897d338ced0c8fc9d2b657d5"
 metafile = true
 
 [[files]]

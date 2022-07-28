@@ -1,13 +1,13 @@
 name = "Open Loader"
-filename = "OpenLoader-Fabric-1.19-13.0.1.jar"
+filename = "OpenLoader-Fabric-1.19-13.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "51e7fa24ab7a0a222efcca21b9a89545dd7a8e8d"
+hash = "d686663d19e7303449e812a632e7628a80ac11a4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3824179
+file-id = 3901816
 project-id = 354339
