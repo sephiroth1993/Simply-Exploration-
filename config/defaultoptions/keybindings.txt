@@ -32,6 +32,8 @@ key_key.hotbar.6:key.keyboard.6:NONE
 key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
+key_keybinding.enable_xray:key.keyboard.x:NONE
+key_keybinding.open_gui:key.keyboard.keypad.9:NONE
 key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.unknown:NONE
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown:NONE
