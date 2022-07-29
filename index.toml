@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a567bff99a6dea536cc8fd0d51df141d158cd000008eb2e5f53f20b1e14ee35e"
+hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "e61400430d9695cf9300574a0c8e711d199ec9c76a78a110e47334c76a4b1378"
+hash = "5aa33f525f9c01700a1e1d7261a77c7e6b7bd0f57b6f1fec5b5f6d3e5840fd4f"
 metafile = true
 
 [[files]]
