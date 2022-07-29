@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3495bee4b13547d7199904af6435eebf4601fa0218b0f6e2a3f7c30f7134717d"
+hash = "989dac3c7c0b3032e29290addf9b3838b1183e0cf82bf1bd0ae0392033c05aee"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "1c0344778ecf6706bbb836a3d08f5c2b1585494a21b07e35a9156b22800902d8"
+hash = "a8fecfaefa03cc5648970578f1eb66ae06b7088c1887314354600e3a52dfcdbf"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "4f1cef0425387d32520ad109a25d6f8a6287133a8b140f2b9ca4c44ca37bda9a"
+hash = "40e9e7d78ab87932208f630b4b785a977b5c2a9188ef36c7853002a7c1d6097e"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a17427a752e900e2842d235df07e5d61dd62d4fc22525a9db8c2a7bcd4f519cf"
+hash = "6646bac9d504c698fc89ea41e0820739f9711e7a56034ecaf315344b793cbf8a"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "947728b73773c3c849da74b91ffe3a8cef1b28dce42d954161019c5b0d80fa32"
+hash = "e61400430d9695cf9300574a0c8e711d199ec9c76a78a110e47334c76a4b1378"
 metafile = true
 
 [[files]]
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "92528897a22ae35254cad4007828ff32c795dec95d496ee254c8a943067d9520"
+hash = "cb1625a16895d747ddc457bf2194a1ca820470197bf6fbe21f83621145beae2e"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "9147518131e7044466091721dea402eedac68230ca72ba12df4b4a5ff2d56451"
+hash = "aa2819614708455121902781207b47a704151b09ba0b8beebf8056aafc7925a7"
 metafile = true
 
 [[files]]
