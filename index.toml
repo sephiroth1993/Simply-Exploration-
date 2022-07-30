@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/colytra-fabric.pw.toml"
-hash = "2e53fff6ac6eacad3ba8a6c3c1c79e0787b292812cf141ab7c4aa9c7c3ac106d"
+hash = "d627172e37c1d48a8eb91b9f59e6125b1f465bee93d6306709daec9eae0df2ac"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "5aa33f525f9c01700a1e1d7261a77c7e6b7bd0f57b6f1fec5b5f6d3e5840fd4f"
+hash = "9f2c4187d8f68ec9f096ea5102acd40c88af4738fabb5475dac07f713d0d08a1"
 metafile = true
 
 [[files]]
