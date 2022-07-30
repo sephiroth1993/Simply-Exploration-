@@ -174,7 +174,7 @@ hash = "18f86ec53340dcc601df7cdad48ca0beec1e7794fe87c3a21e06b3b45f8035de"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "a5bc28378f5637f7eed9e514a310e62d033f545f85d5f1b941ed3882b61c4df8"
+hash = "1b06961e77a91e3f09dfd655521b722b0ff087d0dfa1f915e8976ff418c93475"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -816,11 +816,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "6646bac9d504c698fc89ea41e0820739f9711e7a56034ecaf315344b793cbf8a"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "3007e9818d46b3cc72d4ec3abc8ff0f4253ba0842305a7dc47b28c34f1c194af"
 metafile = true
 
 [[files]]
