@@ -575,17 +575,17 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "80ffacd833db4ee0dbc48699f31074652cbc74e39b59218660d346ae103b3995"
+hash = "e165fe9293c1b9828beadcc5611292e6f43f5b40b45b43b598f7e2a6f8941474"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "00591d6df45083473da862e79e7d25bb207bec5e841167a586e57dde2d2bcd7b"
+hash = "2f651d0f178a985a25a1721cc32d2c4eef04d513aca323622115930de2986338"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "6b49c387c07bc652706c0de25ea5045d4b299e44b0d9db0eb76c2e4fa91dd6a5"
+hash = "116d1868d48db127b06699196a8cd6ddde9f3a17c0fbc9652978066592d93603"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "43355ff28123608ce153d89168735ed67d90b364b9249df8d4a605a618dbc263"
+hash = "394c342b527dacb000b47c9ffef045daea3861217e74d1cdc0047a8deb44b7c6"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "40e9e7d78ab87932208f630b4b785a977b5c2a9188ef36c7853002a7c1d6097e"
+hash = "7d99c9f726f97ec82ac0a2f71c1e3c3d8ccc15a0981f0b265e74390def3cc11d"
 metafile = true
 
 [[files]]
@@ -790,12 +790,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "21ae6591048a111fba70d41a57ee0b7f16e73011f970ce88c21d9ccdea170b0a"
+hash = "0abb6edf141e1050711172ae1f1848239b5d2eb472735bd091d8152c17eb45cb"
 metafile = true
 
 [[files]]
 file = "mods/infusion-table.pw.toml"
 hash = "d609f638ea5ff3ec83aae2be9c02cae95f548b1011a14c2d0d0516d48e3137b6"
+metafile = true
+
+[[files]]
+file = "mods/inventorio.pw.toml"
+hash = "682cb88b2dc06608e44244e875e8a3e304230d8fce1be9fba92415a5cd5d4444"
 metafile = true
 
 [[files]]
@@ -825,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "c16d5e9b61f075230d7e9475ad947594c45bdaa62343f165a6b06099c46793b6"
+hash = "5fe9af0b11b580ff7a683773ca49a6bad5d2e2b1daaf46e08efd8a96f22bbfd7"
 metafile = true
 
 [[files]]
@@ -860,12 +865,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "0216d6a6d7045376c4202300966807909d45c8cb407970f791990df6b656c87b"
+hash = "d7b1fa14bef59d22902b17629feb338b51f414dfa659db74985dc5b63ed1210d"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "8dc993562a0066baf47ba7efa2c01ccaba6c6489a5dcabd7a379fe63cfbcf156"
+hash = "f11f994433f5a11a80a9a44318887f6dd83b36e30ce08c65a3f3b39f86b85f31"
 metafile = true
 
 [[files]]
@@ -955,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
+hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
 
 [[files]]
@@ -980,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "3c2e60d59326d5910d7517e10ae7f4780ca4356bf29380a3c1ad981c5ee0b61f"
+hash = "ce686bf7b418c0cb0beed51e0a23dff56979afe41361ab2b0dcaa211e5f8761f"
 metafile = true
 
 [[files]]
@@ -1020,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "a121d2f8e601a1e8504dccc73f164b6abf9e70e476182850be353918b1e4fc21"
+hash = "ae9e78493f83be29d93af45efa396240296be7eb004f1e5f5d5f3f1f7bf2e559"
 metafile = true
 
 [[files]]
@@ -1055,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "4546934df5c191626cd87813f4e575710da4559ea88bca4aa253ac035dd22a43"
+hash = "984f0474487f73b8c5742afdefe87a7abf218b0ccb0134333ecf2a4990314344"
 metafile = true
 
 [[files]]
