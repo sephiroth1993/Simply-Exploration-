@@ -1,13 +1,13 @@
 name = "Video Extension for FancyMenu [Fabric]"
-filename = "fancymenu_video_extension_fabric_1.1.0_MC_1.19.jar"
+filename = "fancymenu_video_extension_fabric_1.1.1_MC_1.19-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "90636078ea3d82f84cfcf83efeb531136a0971bd"
+hash = "8524805c4055da584a6f6796eca73ea1f3092e31"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3836642
+file-id = 3928273
 project-id = 634550

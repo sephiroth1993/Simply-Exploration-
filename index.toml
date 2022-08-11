@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
+hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fc4115abd76427cfdf203686d8a3b4c333dec62a6a0e243ceef27b9c3eacb09c"
+hash = "53afc1d5c63e73a09645a7636e2648009fc6583e87fe0433c021a62bfc08379f"
 metafile = true
 
 [[files]]
@@ -570,12 +570,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "fd92b809f6c7c8c071ac02478b39afb5247d294e5631918994cdefab362f4c14"
+hash = "a95722a1164bcc8feba04a737e37502dc22d393c3c24149ae1a71d901328d546"
 metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "e165fe9293c1b9828beadcc5611292e6f43f5b40b45b43b598f7e2a6f8941474"
+hash = "0c2703bbc8f46fe76dead6fc276fba1f4af877e63db4157f5c9eedc9065dbd9b"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "116d1868d48db127b06699196a8cd6ddde9f3a17c0fbc9652978066592d93603"
+hash = "42a1922956c0640656c437853b5160f32ad9603b8f38dbcf23ac357b71aafee8"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "59972150b5f7774cf8eac32193bae06e07dd9b8cc67d83fb0ff01c925579f263"
+hash = "8d3d01acc15b08ee0d0a86a5d374695d69d44cf0f6a40fd8977ed1c12e7d9946"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "394c342b527dacb000b47c9ffef045daea3861217e74d1cdc0047a8deb44b7c6"
+hash = "74164d4bf654579d96d6602f4a2435224bd57dd39082dac92a0b564939ebf433"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "2027fc62f27fdabd1f6485dbdc2f4316ea6b04dedf595f839651020d2d861a69"
+hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
-hash = "a986468a9f7cc461f7b414f70b178c52bac999e18c37c1da5b518951d0cae358"
+hash = "e9158e06a0563641b8bcf990fa789f0d30d896bc3a72522b048d3f0217c69e1b"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "c23daf6ad60470c69820e3b84589a2c20b7a37f8d9d641b22937d2ad0629fefe"
+hash = "6a739caf974dd128ffc730b7a057e2b34b4fc7b1007a00e85d00a1b14739c650"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "9f2c4187d8f68ec9f096ea5102acd40c88af4738fabb5475dac07f713d0d08a1"
+hash = "27687f10314af2cb2b55d0610cb003ca1d8c8611bcc59aaec9fb7e224f23cd3e"
 metafile = true
 
 [[files]]
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
+hash = "4a1e6a09f17601674c424eec048f08b19dcb7bc346b6525d09e75a752c2cfeb7"
 metafile = true
 
 [[files]]
@@ -970,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "114a46842bf3db1dd5be831f0433be0720a4b5632fc1f36f132104e02d096765"
+hash = "56dea4f64910ba26f3b4b833c3cd65536401aa027c07869cec57f3f6c117ed25"
 metafile = true
 
 [[files]]
@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/video-extension-for-fancymenu-fabric.pw.toml"
-hash = "01da2c6b001cbb69201b416103d498fa601eb1c3b9350482174fcd8ae825d726"
+hash = "071e29532ac8b8c4b41d2d0c875feceab2dc2cd11473076f0f7f05e46be5c35d"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "aa2819614708455121902781207b47a704151b09ba0b8beebf8056aafc7925a7"
+hash = "f61106ce4e26cbb9f85819405484a238b65aed734ef7b9592e546aed25d91df9"
 metafile = true
 
 [[files]]
