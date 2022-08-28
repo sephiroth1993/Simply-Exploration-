@@ -1,13 +1,13 @@
 name = "Charm"
-filename = "charm-fabric-1.19.0-4.2.1.jar"
+filename = "charm-fabric-1.19.0-4.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f11cb6889bc6e462d762298f8cccbd408af2887d"
+hash = "e62568de1a30c1b2697f920d00f2652373ce1e1a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3922183
+file-id = 3942557
 project-id = 318872
