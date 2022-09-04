@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
+hash = "88b7f3a8623301333f7341c92eda39fd73349977065c047154ffdddbc2096d7e"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "03ccf583d20e1301a14432bd19ac20a4cc018ca93ba2d38b2a94fad3592fdaa8"
+hash = "fa0bfdfa7fa3ace1d30c8e0929ab1f120be5ceb0adaee37f0f2bd90bc27b7492"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "fc398b89bdfc34be1007095e5ba4219270668b9019f28ec8774e3b6f144d9cb8"
+hash = "bd0b18cb35442cf039162687e5b2999a1e8c77686678ea5a5fd9d964dad08140"
 metafile = true
 
 [[files]]
@@ -781,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "4ab18dcf6ed2dce2db64036e7e740f6ee8aac3f16ca6a10375fe3e5fb09020cc"
 metafile = true
 
 [[files]]
@@ -800,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorio.pw.toml"
-hash = "597541a9e8996c2c61913705d031a9abdf91ddf9f17cb1539b93d1dbeb42651d"
+hash = "3af8bf392f18f4d53bcd24ff76894feef4f5ebba25fd027ed4e330adf5024922"
 metafile = true
 
 [[files]]
@@ -875,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "616b10a5004554570053c5334c9ff411c2225f42aa851496d7aa28fa8b8bf9bd"
+hash = "9c73909d60dc034680969b7e456592eadbba79f38ae4ae83e4ec50ddabd50d3e"
 metafile = true
 
 [[files]]
@@ -950,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "0ff524728716da9f063f71bca08110f0c73a559ec7dc9c2061aa932ded0e7887"
+hash = "c439a80288c3f882c288536e91b00cce2aa248b7848fdca20727444ed9015858"
 metafile = true
 
 [[files]]
@@ -1055,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "02a43ff5c446cf4183dccb7201e66f57e9b411361d2df4f7a312645249376fa3"
+hash = "d6a986ac762750a57ac729adb92a5cd305025960a84e7763234d89014b210ef2"
 metafile = true
 
 [[files]]
