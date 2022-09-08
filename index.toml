@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "6910dd83fbfb3bae2db1058b745420b074ccf058ce7208e545573bac9c4d4d04"
+hash = "7b9da54f5189e835218670318d86915b602dabf7d5bb9fd5a416fc43498fd5fe"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "561ad66d44b91fdf5902647e8ec9124c7b0e4502d9e43c7420549c863c6b6300"
+hash = "827d760d7989d459ddbf537a8cbd8aecd78a765057c70aafa2b887d827c3b3f4"
 metafile = true
 
 [[files]]
