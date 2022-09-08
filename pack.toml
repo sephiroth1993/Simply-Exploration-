@@ -1,6 +1,6 @@
 name = "Simply Exploration +"
 author = "Sephiroth1993"
-version = "1.8"
+version = "1.8.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "68f790c88ad88566017c09c5640f7f54b9f6b43f75ab33f77111852a8ee82ab7"
 
 [versions]
-fabric = "0.14.8"
+fabric = "0.14.9"
 minecraft = "1.19"
