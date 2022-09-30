@@ -1,13 +1,13 @@
 name = "Architectury API (Fabric/Forge)"
-filename = "architectury-5.12.44-fabric.jar"
+filename = "architectury-5.12.45-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "073188c6342e5f73a1e6eca218e5298051e9be42"
+hash = "ccd37b3831df95b498a300b53881a3299d3b0188"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3946799
+file-id = 3984013
 project-id = 419699

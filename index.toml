@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "989dac3c7c0b3032e29290addf9b3838b1183e0cf82bf1bd0ae0392033c05aee"
+hash = "faa9fb2f7da70f11f07d3dd2aca2e96ca82959986ba3aea9af2ba3b01e83f2f1"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3e4a24a9b4d21f00e3a79f5806ede395790cdd5e83371017b7aa64a8106de23e"
+hash = "debe80adfae66562f3f89e38c29774437be24a1a1c320c0b35db2851bff8b29b"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
+hash = "1082a396e2565093429f068ad4ad035b9ee4405ef457db2eecb14386926559ec"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "88b7f3a8623301333f7341c92eda39fd73349977065c047154ffdddbc2096d7e"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a8fecfaefa03cc5648970578f1eb66ae06b7088c1887314354600e3a52dfcdbf"
+hash = "eaa774858114e6d9f70c50f07f6e373bddd5be415624a590eb6793335e621d06"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "27ec599fda166bc9aad244f5039fd1e3f8584e861e1163a6d3e159721528ab81"
+hash = "b8ea6091c79c1905cba6c53e911758acdc6a25bf0a5434ed6f8e9ee3b937809e"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
+hash = "ac550d593a055e3b0c5867ccc64c970f54978fb487be3dec333c303334a586f3"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "74164d4bf654579d96d6602f4a2435224bd57dd39082dac92a0b564939ebf433"
+hash = "01ccb209d26f1d9d44f34fd26337d8a527a7b3f418dc8eff5bf7edc6d85c4b85"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "f96a545f44b67b4fe0574a9dd55edb19cc460b55b77c51824cb2d22b59fa5d2f"
+hash = "70d7f9b16fffbf8999a373d3b008e6b0b7b782b9de14575826a0b2c86797636b"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "b17ce1c86de7cf2b230e663513576bea860d33a46d264c8fc3a064a9d0a5edb2"
+hash = "f715142579d63745d7e0ba8d6d0009562f302c13405d0445d3e376aa84b83ffa"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "0051fefa10d4abd486f02513b86e7c8b7ee24d69dac182c421548d7ec7617f42"
+hash = "8f25bcf2861e14d911472dc7f55087a156bd948bc6322e530d91cf46e5c26579"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "827d760d7989d459ddbf537a8cbd8aecd78a765057c70aafa2b887d827c3b3f4"
+hash = "4882bc55521fde755b5e4d3404b52630bd18480219d11cc706deb8d6dc0ff88e"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1c7321d83c9cfa99efd897040a52f263c846ef2b60c3c9cec97ac28ab799cad0"
+hash = "8d81eeec3000c9f1471a47552c9acf0a389de66f8ccc36fe227c7438950e3cd7"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "ce686bf7b418c0cb0beed51e0a23dff56979afe41361ab2b0dcaa211e5f8761f"
+hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
 metafile = true
 
 [[files]]
